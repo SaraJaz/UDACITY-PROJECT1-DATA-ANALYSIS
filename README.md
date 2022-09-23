@@ -2,7 +2,9 @@
 Udacity-Project1-Data Analysis-DAND
 
 >Introduction
-overview In order to complete my first project which is the first step to success in nanodegree data analysis, I choose to investigate imdb movie dataset.
+>overview 
+
+In order to complete my first project which is the first step to success in nanodegree data analysis, I choose to investigate imdb movie dataset.
 
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb),including user ratings and revenue.it contains 21 rows.
 
